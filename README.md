@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @danielSajjadi
+- 👀 I’m interested in technology
+- 🌱 I’m currently learning coding 
