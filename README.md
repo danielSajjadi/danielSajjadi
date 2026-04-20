@@ -10,7 +10,8 @@
 
 ###
 
-<p align="left">🎓 Recent computer science graduate passionate about software development and excited to dive into the world of C# and also keep eyes on Java and Kotlin. <br><br>🔭 Currently working on building projects to sharpen my C# skills and explore different aspects of software development.<br><br>🌱 Always learning and expanding my knowledge and learning new technologies.<br><br>📫 Let's connect! Reach me at <a href="https://www.linkedin.com/in/danial-sajjadi-a3046489/">LinkedIn</a>.</p>
+<p align="left">Backend-focused Software Engineer experienced in Java & Kotlin, currently expanding into C++/Web App.
+<br><br>📫 Reach me at <a href="https://www.linkedin.com/in/danial-sajjadi-a3046489/">LinkedIn</a>.</p>
 
 ###
 
